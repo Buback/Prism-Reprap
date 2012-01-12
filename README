@@ -1,4 +1,40 @@
 Build instructions and BOM are over at the Reprap wiki at http://reprap.org/wiki/Prism
 
+Parts Print count:
+
+Z Motor Bracket - Belt:		1
+Z Lead Screw Support: 		2
+Y Motor Bracket:		1
+Y Idler:			1
+Rod Holder- Ztop:		2
+Rod Holder - Y and Zbottom	6
+90 thin R:			1
+90 thin L:			1
+90 R:				2
+90 L:				2
+60 Inside;			6
+60 End				6
+
+Alternate parts:
+
+Spacer - Replaces 90 R and L, but might result in less rigidity:
+	Spacer:			8
+	90 thin R:		2 Additional
+	90 thin L:		2 Additional
+
+
+608 Y Idler - Replaces 624 bearing with 608 bearing used in Prusa Mendel
+	608 Y Idler:		1
+	608 Y Idler 2:		1
+	
+Additional parts:
+
+2020 Wire Clip - clips onto 20x20 extrusion to hold wires in the channel
+	2020 Wire Clip:		Print as many as you need
+
+Y Idler 2 - Recomended to keep your idler from bending under tension. Chiral copy of regular Y Idler.
+	Y Idler 2:		1
+	
+
 Cheers
 Buback
